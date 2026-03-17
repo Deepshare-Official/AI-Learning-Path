@@ -2,9 +2,9 @@
   
   <h1>🚀 深度之眼：AI 算法工程师完整学习路线</h1>
 
-  <h3>零基础通关 AI 核心技术 | 体系化硬核干货带你直通大厂 Offer</h3>
+  <h3>零基础通关 AI 核心技术 | 体系化硬核干货带你直通顶会顶刊</h3>
   
-  <p><b>基于实战导向 · 涵盖底层原理 · 紧贴工业界需求</b></p>
+  <p><b>基于实战导向 · 涵盖底层原理 · 紧贴学术界需求</b></p>
 
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />

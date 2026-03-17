@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/macbook.gif" width="120" />
+  
   <h1>🚀 深度之眼：AI 算法工程师完整学习路线</h1>
 
   <h3>零基础通关 AI 核心技术 | 体系化硬核干货带你直通大厂 Offer</h3>
@@ -118,7 +120,7 @@
 ---
 
 ## <a id="选修"></a>📚 选修：AI 经典书籍带读
-> 💡 **核心提示**：这些AI经典书籍对于初学者学习不是那么简单易上手，可以在打好基础后再来学习作为检测和巩固，查漏补缺，此时可以重点放在公式推导上，既会算法使用又知道如何推导。
+> 💡 **核心提示**：这些AI经典书籍对于初学者学习不是那么简单易上手，可以在打好基础后再来学习作为检测和巩固，查漏缺，此时可以重点放在公式推导上，既会算法使用又知道如何推导。
 
 | 学习书籍 | 视频教程 | 课程内容 | 学习收获 |
 | :---: | :---: | :---: | :---: |
@@ -126,7 +128,11 @@
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV13a411D72T/) | 《深度学习》(花书) 带读 | 掌握深度学习的数学原理、网络结构与优化算法 |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV11T4117797/) | 《统计学习方法》(李航) | 夯实统计机器学习底层逻辑与数学推导基础 |
 
+---
+
 <div align="center">
+  <br>
+  <p><i>"The best way to predict the future is to create it."</i></p>
   <br>
   <img src="https://profile-counter.glitch.me/ai-learning-path/count.svg" />
 </div>

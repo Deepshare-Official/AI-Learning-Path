@@ -6,11 +6,21 @@
   <h3>零基础通关 AI 核心技术 | 体系化硬核干货带你直通大厂 Offer</h3>
   
   <p><b>基于实战导向 · 涵盖底层原理 · 紧贴工业界需求</b></p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  </p>
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://media.giphy.com/media/LmN8OYEt5m054fFqf3/giphy.gif" width="100" />
 </div>
 
 ## 🧱 第一阶段：AI 通识基础
@@ -18,7 +28,7 @@
 
 | 学习内容 | 视频教程 | 知识点 | 学习目标 |
 | :---: | :---: | :---: | :---: |
-| **编程与数理基础 (Python)** | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV13Y411K72V/) | 绪论和环境配置 | 1.掌握Python基础理论知识<br>2.了解第三方数据科学库<br>3.能自己动手完成一些常见实例练习<br>4.能自己开始刷leetcode |
+| **<img src="https://cdn.simpleicons.org/python/3776AB" width="16"/> 编程与数理基础 (Python)** | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV13Y411K72V/) | 绪论和环境配置 | 1.掌握Python基础理论知识<br>2.了解第三方数据科学库<br>3.能自己动手完成一些常见实例练习<br>4.能自己开始刷leetcode |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1fa411W73E/) | 基础语法 | |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1Af4y1Z7g3/) | 基本数据类型 | |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1Da411W77S/) | 组合数据类型 | |
@@ -31,7 +41,7 @@
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV183411w7DV/) | 微积分 | |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1JY4y1n7QZ/) | 概率论 | |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1M94y1R7Qg/) | 最优化 | |
-| **机器学习基础** | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1wN4y1g7ts/) | 线性回归 | 1.对主流机器学习模型核心理论有整体的认知<br>2.基于Python语言完成机器学习相关算法实现练习 |
+| **<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="16"/> 机器学习基础** | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1wN4y1g7ts/) | 线性回归 | 1.对主流机器学习模型核心理论有整体的认知<br>2.基于Python语言完成机器学习相关算法实现练习 |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1tt4y187Bp/) | 逻辑回归 | |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1qt4y1873M/) | 决策树 | |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV15B4y1B7hP/) | 朴素贝叶斯 | |
@@ -42,7 +52,7 @@
 | **深度学习基础 (神经网络)**| [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1EY4y1n7FT/) | 神经网络基础与多层感知机 | 1.对经典的深度学习模型有整体的认识<br>2.掌握常见的深度学习模型DNN、CNN、RNN等的结构与原理 |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1Ja411X7zv/) | 卷积神经网络 | |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1E94y1R72L/) | 循环神经网络 | |
-| **深度学习基础 (Pytorch)** | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1Gr4y1u7n8/) | Pytorch的tensor（张量） | 1.熟悉深度学习Pytorch框架的常见使用方法<br>2.能够使用Pytorch框架搭建深度学习模型的pipeline |
+| **<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="16"/> 深度学习基础 (Pytorch)** | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1Gr4y1u7n8/) | Pytorch的tensor（张量） | 1.熟悉深度学习Pytorch框架的常见使用方法<br>2.能够使用Pytorch框架搭建深度学习模型的pipeline |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1Ya411X7XM/) | 数据读取机制 | |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1TW4y167iK/) | torchvision和transform | |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1if4y1Z7MQ/) | Torchtext | |
@@ -68,8 +78,8 @@
 | 学习内容 | 视频教程 | 课程内容 | 学习收获 |
 | :---: | :---: | :---: | :---: |
 | **计算机视觉基础** | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1tg411f7Tm/) | 认识CV算法工程师 | 了解CV算法工程师的概念、职责、技能、薪资等 |
-| | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1yZ4y1Y7jJ/) | 理论夯实：OpenCV图像基础 | 了解图像处理基础知识，掌握常用算法及代码实现 |
-| | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1A34y1H7nG/) | 项目实践：Kaggle木薯分类 | 通过比赛练习上手实战，掌握CV分类初级模型技巧 |
+| | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1yZ4y1Y7jJ/) | 理论夯实：<img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="14"/> OpenCV图像基础 | 了解图像处理基础知识，掌握常用算法及代码实现 |
+| | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1A34y1H7nG/) | 项目实践：<img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="14"/> Kaggle木薯分类 | 通过比赛练习上手实战，掌握CV分类初级模型技巧 |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1hT411g7L1/) | 学术精研：AlexNet论文复现 | 精细研读具有里程碑意义的AlexNet，掌握论文复现方法 |
 
 <br>
@@ -107,10 +117,11 @@
 ---
 
 <div align="center">
+  <img src="https://media.giphy.com/media/A6OAL958Y700v8r5Yd/giphy.gif" width="120" />
 </div>
 
 ## 📚 选修：AI经典书籍带读
-> 💡 **核心提示**：这些AI经典书籍对于初学者学习不是那么简单易上手，可以在打好基础后再来学习作为检测和巩固，查漏缺，此时可以重点放在公式推导上，既会算法使用又知道如何推导。
+> 💡 **核心提示**：这些AI经典书籍对于初学者学习不是那么简单易上手，可以在打好基础后再来学习作为检测和巩固，查漏补缺，此时可以重点放在公式推导上，既会算法使用又知道如何推导。
 
 | 学习书籍 | 视频教程 | 课程内容 | 学习收获 |
 | :---: | :---: | :---: | :---: |
@@ -120,4 +131,6 @@
 
 <div align="center">
   <br>
-  <img src="https://media.giphy
+  <img src="https://media.giphy.com/media/A6OAL958Y700v8r5Yd/giphy.gif" width="100" />
+  <p><i>Keep Coding & Stay Hungry</i></p>
+</div>

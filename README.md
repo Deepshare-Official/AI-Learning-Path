@@ -3,14 +3,16 @@
   
   <h1>🚀 深度之眼：AI 算法工程师完整学习路线</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F77299&center=true&vCenter=true&width=800&lines=零基础通关+AI+核心技术;Python+|+机器学习+|+深度学习框架;CV+|+NLP+|+推荐系统+|+时间序列;体系化硬核干货，带你直通大厂+Offer!" alt="Typing SVG" />
+  <h3>零基础通关 AI 核心技术 | 体系化硬核干货带你直通大厂 Offer</h3>
   
   <p><b>基于实战导向 · 涵盖底层原理 · 紧贴工业界需求</b></p>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
 
-<br>
+<div align="center">
+  <img src="https://media.giphy.com/media/LmN8OYEt5m054fFqf3/giphy.gif" width="100" />
+</div>
 
 ## 🧱 第一阶段：AI 通识基础
 > 💡 万丈高楼平地起。本阶段是所有 AI 算法工程师的“基本功”，包含编程、数学、机器学习与深度学习基础，请务必扎实掌握。
@@ -54,9 +56,13 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
 
-## 🌲 第二阶段：AI 细分入门
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" />
+</div>
+
+## 🌲 第二阶段：AI细分入门
 > 💡 **学习建议**：初次学习时可以先快速过一遍视频内容，下载课件资料进一步学习，多次回顾课程视频及知识点。首先对基础知识内容建立一个大框架，然后深入框架分支，逐步填充细节内容。形成自己对整个AI基础知识的整体知识树。
 
 ### 🖼️ 1. CV 计算机视觉
@@ -99,10 +105,14 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
 
-## 📚 选修：AI 经典书籍带读
-> 💡 **核心提示**：这些AI经典书籍对于初学者学习不是那么简单易上手，可以在打好基础后再来学习作为检测和巩固，查漏补缺，此时可以重点放在公式推导上，既会算法使用又知道如何推导。
+<div align="center">
+  <img src="https://media.giphy.com/media/A6OAL958Y700v8r5Yd/giphy.gif" width="100%" />
+</div>
+
+## 📚 选修：AI经典书籍带读
+> 💡 **核心提示**：这些AI经典书籍对于初学者学习不是那么简单易上手，可以在打好基础后再来学习作为检测和巩固，查漏缺，此时可以重点放在公式推导上，既会算法使用又知道如何推导。
 
 | 学习书籍 | 视频教程 | 课程内容 | 学习收获 |
 | :---: | :---: | :---: | :---: |
@@ -112,6 +122,6 @@
 
 <div align="center">
   <br>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/A6OAL958Y700v8r5Yd/giphy.gif" width="150" />
   <p><i>Keep Coding & Stay Hungry</i></p>
 </div>

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/macbook.gif" width="120" />
+  <img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="100" />
   
   <h1>🚀 深度之眼：AI 算法工程师完整学习路线</h1>
 
@@ -134,4 +134,5 @@
   <br>
   <p><i>"The best way to predict the future is to create it."</i></p>
   <br>
+  <img src="https://profile-counter.glitch.me/ai-learning-path/count.svg" />
 </div>

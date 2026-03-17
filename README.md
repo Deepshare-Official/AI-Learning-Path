@@ -45,26 +45,47 @@
 ## 第二阶段：AI细分入门
 > 💡 **学习建议**：初次学习时可以先快速过一遍视频内容，下载课件资料进一步学习，多次回顾课程视频及知识点。首先对基础知识内容建立一个大框架，然后深入框架分支，逐步填充细节内容。形成自己对整个AI基础知识的整体知识树。
 
-| 学习方向 | 视频教程 | 课程内容 | 学习收获 |
+### 🖼️ 1. CV 计算机视觉
+| 学习内容 | 视频教程 | 课程内容 | 学习收获 |
 | :---: | :---: | :---: | :---: |
-| **🖼️ 1. CV 计算机视觉** | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1tg411f7Tm/) | 认识CV算法工程师 | 了解CV算法工程师的概念、职责、技能、薪资等 |
+| **计算机视觉基础** | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1tg411f7Tm/) | 认识CV算法工程师 | 了解CV算法工程师的概念、职责、技能、薪资等 |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1yZ4y1Y7jJ/) | 理论夯实：OpenCV图像基础 | 了解图像处理基础知识，掌握常用算法及代码实现 |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1A34y1H7nG/) | 项目实践：Kaggle木薯分类 | 通过比赛练习上手实战，掌握CV分类初级模型技巧 |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1hT411g7L1/) | 学术精研：AlexNet论文复现 | 精细研读具有里程碑意义的AlexNet，掌握论文复现方法 |
-| **📝 2. NLP 自然语言处理** | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1h94y197GK/) | 认识NLP算法工程师 | 了解NLP行业分布、日常工作内容与发展路线 |
+
+<br>
+
+### 📝 2. NLP 自然语言处理
+| 学习内容 | 视频教程 | 课程内容 | 学习收获 |
+| :---: | :---: | :---: | :---: |
+| **自然语言处理基础** | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1h94y197GK/) | 认识NLP算法工程师 | 了解NLP行业分布、日常工作内容与发展路线 |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1tB4y1p7Bm/) | 理论夯实：NLP基础理论 | 掌握文本预处理、词向量等NLP核心基础技术 |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1tB4y1p7Bm/) | 项目实践：自然语言处理实战 | 体验真实业务场景，掌握文本分类等实战应用技巧 |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1Me4y1d7iW/) | 学术精研：Transformer复现 | 彻底搞懂大模型时代的基石 Transformer 架构 |
-| **📈 3. 时间序列分析** | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1q94y197QR/) | 认识时间序列工程师 | 明确时序预测在金融、销量预测等领域的应用 |
+
+<br>
+
+### 📈 3. 时间序列分析
+| 学习内容 | 视频教程 | 课程内容 | 学习收获 |
+| :---: | :---: | :---: | :---: |
+| **时间序列基础** | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1q94y197QR/) | 认识时间序列工程师 | 明确时序预测在金融、销量预测等领域的应用 |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1je4y1d7uH/) | 理论夯实：时间序列基础 | 掌握时间序列数据的平稳性检验与特征提取 |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1c3411F77a/) | 项目实践：时间序列预测实战 | 掌握常见时序预测模型的实战应用技巧 |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1FS4y1n77N/) | 学术精研：经典时序论文复现 | 深入理解时间序列领域前沿模型的架构与代码实现 |
-| **🎯 4. 推荐系统** | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1134y1J7ba/) | 认识推荐系统算法工程师 | 了解大厂推荐系统的核心逻辑与业务场景 |
+
+<br>
+
+### 🎯 4. 推荐系统
+| 学习内容 | 视频教程 | 课程内容 | 学习收获 |
+| :---: | :---: | :---: | :---: |
+| **推荐系统基础** | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1134y1J7ba/) | 认识推荐系统算法工程师 | 了解大厂推荐系统的核心逻辑与业务场景 |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1Xa411S7B3/) | 理论夯实：推荐系统基础 | 掌握协同过滤、FM、DeepFM 等推荐算法原理 |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1p3411F7vA/) | 项目实践：CTR点击率预估 | 从零搭建一套完整的电商点击率预估推荐流水线 |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV13t4y1t77r/) | 学术精研：DeepFM论文精读 | 深入理解 CTR 预估经典模型的架构与代码实现 |
 
 <br>
+
+---
 
 ## 📚 选修：AI经典书籍带读
 > 💡 **核心提示**：这些AI经典书籍对于初学者学习不是那么简单易上手，可以在打好基础后再来学习作为检测和巩固，查漏补缺，此时可以重点放在公式推导上，既会算法使用又知道如何推导。

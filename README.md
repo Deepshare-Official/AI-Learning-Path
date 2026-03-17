@@ -134,5 +134,4 @@
   <br>
   <p><i>"The best way to predict the future is to create it."</i></p>
   <br>
-  <img src="https://profile-counter.glitch.me/ai-learning-path/count.svg" />
 </div>

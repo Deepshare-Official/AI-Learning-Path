@@ -11,7 +11,6 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmN8OYEt5m054fFqf3/giphy.gif" width="100" />
 </div>
 
 ## 🧱 第一阶段：AI 通识基础
@@ -108,7 +107,6 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/A6OAL958Y700v8r5Yd/giphy.gif" width="120" />
 </div>
 
 ## 📚 选修：AI经典书籍带读

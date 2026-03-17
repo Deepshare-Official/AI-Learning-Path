@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/macbook.gif" width="120" />
-  
   <h1>🚀 深度之眼：AI 算法工程师完整学习路线</h1>
 
-  <h3>零基础通关 AI 核心技术 | 体系化硬核干货带你直通顶会顶刊</h3>
+  <h3>零基础通关 AI 核心技术 | 体系化硬核干货带你直通大厂 Offer</h3>
   
-  <p><b>基于实战导向 · 涵盖底层原理 · 紧贴学术界需求</b></p>
+  <p><b>基于实战导向 · 涵盖底层原理 · 紧贴工业界需求</b></p>
 
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -19,11 +17,18 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="120" />
-</div>
+> **📑 快速导航（点击直达）**
+> - <a href="#第一阶段">🧱 第一阶段：AI 通识基础</a>
+> - <a href="#第二阶段">🌲 第二阶段：AI 细分入门</a>
+>   - <a href="#cv">🖼️ 1. CV 计算机视觉</a>
+>   - <a href="#nlp">📝 2. NLP 自然语言处理</a>
+>   - <a href="#ts">📈 3. 时间序列分析</a>
+>   - <a href="#rs">🎯 4. 推荐系统</a>
+> - <a href="#选修">📚 选修：AI 经典书籍带读</a>
 
-## 🧱 第一阶段：AI 通识基础
+---
+
+## <a id="第一阶段"></a>🧱 第一阶段：AI 通识基础
 > 💡 万丈高楼平地起。本阶段是所有 AI 算法工程师的“基本功”，包含编程、数学、机器学习与深度学习基础，请务必扎实掌握。
 
 | 学习内容 | 视频教程 | 知识点 | 学习目标 |
@@ -67,14 +72,10 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="80" />
-</div>
-
-## 🌲 第二阶段：AI细分入门
+## <a id="第二阶段"></a>🌲 第二阶段：AI 细分入门
 > 💡 **学习建议**：初次学习时可以先快速过一遍视频内容，下载课件资料进一步学习，多次回顾课程视频及知识点。首先对基础知识内容建立一个大框架，然后深入框架分支，逐步填充细节内容。形成自己对整个AI基础知识的整体知识树。
 
-### 🖼️ 1. CV 计算机视觉
+### <a id="cv"></a>🖼️ 1. CV 计算机视觉
 | 学习内容 | 视频教程 | 课程内容 | 学习收获 |
 | :---: | :---: | :---: | :---: |
 | **计算机视觉基础** | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1tg411f7Tm/) | 认识CV算法工程师 | 了解CV算法工程师的概念、职责、技能、薪资等 |
@@ -84,7 +85,7 @@
 
 <br>
 
-### 📝 2. NLP 自然语言处理
+### <a id="nlp"></a>📝 2. NLP 自然语言处理
 | 学习内容 | 视频教程 | 课程内容 | 学习收获 |
 | :---: | :---: | :---: | :---: |
 | **自然语言处理基础** | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1h94y197GK/) | 认识NLP算法工程师 | 了解NLP行业分布、日常工作内容与发展路线 |
@@ -94,7 +95,7 @@
 
 <br>
 
-### 📈 3. 时间序列分析
+### <a id="ts"></a>📈 3. 时间序列分析
 | 学习内容 | 视频教程 | 课程内容 | 学习收获 |
 | :---: | :---: | :---: | :---: |
 | **时间序列基础** | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1q94y197QR/) | 认识时间序列工程师 | 明确时序预测在金融、销量预测等领域的应用 |
@@ -104,7 +105,7 @@
 
 <br>
 
-### 🎯 4. 推荐系统
+### <a id="rs"></a>🎯 4. 推荐系统
 | 学习内容 | 视频教程 | 课程内容 | 学习收获 |
 | :---: | :---: | :---: | :---: |
 | **推荐系统基础** | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1134y1J7ba/) | 认识推荐系统算法工程师 | 了解大厂推荐系统的核心逻辑与业务场景 |
@@ -116,11 +117,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" />
-</div>
-
-## 📚 选修：AI经典书籍带读
+## <a id="选修"></a>📚 选修：AI 经典书籍带读
 > 💡 **核心提示**：这些AI经典书籍对于初学者学习不是那么简单易上手，可以在打好基础后再来学习作为检测和巩固，查漏补缺，此时可以重点放在公式推导上，既会算法使用又知道如何推导。
 
 | 学习书籍 | 视频教程 | 课程内容 | 学习收获 |
@@ -131,5 +128,5 @@
 
 <div align="center">
   <br>
-  <p><i>Keep Coding & Stay Hungry</i></p>
+  <img src="https://profile-counter.glitch.me/ai-learning-path/count.svg" />
 </div>

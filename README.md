@@ -31,4 +31,11 @@
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1E94y1R72L/) | 循环神经网络 | |
 | **深度学习基础 (Pytorch)** | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1Gr4y1u7n8/) | Pytorch的tensor（张量） | 1.熟悉深度学习Pytorch框架的常见使用方法<br>2.能够使用Pytorch框架搭建深度学习模型的pipeline |
 | | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1Ya411X7XM/) | 数据读取机制 | |
-| | [![B站](
+| | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1TW4y167iK/) | torchvision和transform | |
+| | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1if4y1Z7MQ/) | Torchtext | |
+| | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1kB4y1W7XG/) | 模型创建与nn.module | |
+| | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1Xv4y1T7wz/) | 激活函数层 | |
+| | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1TU4y1D7KJ/) | 损失函数 | |
+| | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1wT411G7kE/) | 优化器 | |
+| | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1HB4y1i7Fn/) | 正则化网络层 | |
+| | [![B站](https://img.shields.io/badge/B站-点击播放-fb7299?logo=bilibili)](https://www.bilibili.com/video/BV1Mf4y1Z7Mb/) | 可视化工具-TensorBoard | |

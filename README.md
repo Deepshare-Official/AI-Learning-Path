@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
   
   <h1>🚀 深度之眼：AI 算法工程师完整学习路线</h1>
 
@@ -59,7 +59,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120" />
 </div>
 
 ## 🌲 第二阶段：AI细分入门
@@ -108,7 +108,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/A6OAL958Y700v8r5Yd/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/A6OAL958Y700v8r5Yd/giphy.gif" width="120" />
 </div>
 
 ## 📚 选修：AI经典书籍带读
@@ -122,6 +122,4 @@
 
 <div align="center">
   <br>
-  <img src="https://media.giphy.com/media/A6OAL958Y700v8r5Yd/giphy.gif" width="150" />
-  <p><i>Keep Coding & Stay Hungry</i></p>
-</div>
+  <img src="https://media.giphy
